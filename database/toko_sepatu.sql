@@ -39,7 +39,7 @@ CREATE TABLE `admin` (
 --
 
 INSERT INTO `admin` (`id_admin`, `username`, `password`) VALUES
-(1, 'agustio Fernando', '12345678');
+(1, 'faridpsd', '12345678');
 
 -- --------------------------------------------------------
 
